@@ -33,5 +33,8 @@ Question) Longest Word in Dictionary through Deleting
           
 Question) 443. String Compression
           https://leetcode.com/problems/string-compression/description/
+          
+Question) 724. Find Pivot Index
+          https://leetcode.com/problems/find-pivot-index/description/
 
 
