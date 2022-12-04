@@ -30,5 +30,8 @@ Question) https://www.geeksforgeeks.org/to-find-smallest-and-second-smallest-ele
 
 Question) Longest Word in Dictionary through Deleting
           https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
+          
+Question) 443. String Compression
+          https://leetcode.com/problems/string-compression/description/
 
 
