@@ -36,5 +36,8 @@ Question) 443. String Compression
           
 Question) 724. Find Pivot Index
           https://leetcode.com/problems/find-pivot-index/description/
+          
+Question) Alternative Sorting
+          https://practice.geeksforgeeks.org/problems/alternative-sorting1311/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
 
 
