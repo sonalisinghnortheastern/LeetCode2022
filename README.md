@@ -42,4 +42,7 @@ Question) Alternative Sorting
 
 Question) Height Checker
           https://leetcode.com/problems/height-checker/submissions/639550303/
+          
+Question) Design HashMap
+          https://leetcode.com/problems/design-hashmap/description/
 
