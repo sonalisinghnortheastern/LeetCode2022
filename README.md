@@ -40,4 +40,6 @@ Question) 724. Find Pivot Index
 Question) Alternative Sorting
           https://practice.geeksforgeeks.org/problems/alternative-sorting1311/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
 
+Question) Height Checker
+          https://leetcode.com/problems/height-checker/submissions/639550303/
 
