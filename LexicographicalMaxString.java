@@ -11,7 +11,7 @@ public static String lexographicString(String str){
             }
             else{
                 result+= str.charAt(j);
-                if(result.compareTo(maxValue)>0){
+                if(result.compareTo(maxValue)>0){  // returns +ve if result>maxValue , 0 if equal , -ve if result<maxValue
                     maxValue=result;
                 }
                 j++;
