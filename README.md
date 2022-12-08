@@ -51,4 +51,7 @@ Question) 1041. Robot Bounded In Circle
           
 Question) 209. Minimum Size Subarray Sum
           https://leetcode.com/problems/minimum-size-subarray-sum/description/
+          
+Question) Lexicographical Maximum substring of string
+          https://www.geeksforgeeks.org/lexicographical-maximum-substring-string/
 
