@@ -57,4 +57,7 @@ Question) Lexicographical Maximum substring of string
           
 Question) 208. Implement Trie (Prefix Tree)
           https://leetcode.com/problems/implement-trie-prefix-tree/description/
+          
+Question) 141. Linked List Cycle
+          https://leetcode.com/problems/linked-list-cycle/description/
 
