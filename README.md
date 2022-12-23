@@ -54,4 +54,7 @@ Question) 209. Minimum Size Subarray Sum
           
 Question) Lexicographical Maximum substring of string
           https://www.geeksforgeeks.org/lexicographical-maximum-substring-string/
+          
+Question) 208. Implement Trie (Prefix Tree)
+          https://leetcode.com/problems/implement-trie-prefix-tree/description/
 
