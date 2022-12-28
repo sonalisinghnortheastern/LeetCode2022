@@ -66,3 +66,6 @@ Question) 547. Number of Provinces (DFS)
 
 Question) Find maximum occurring character in a string
           https://www.geeksforgeeks.org/return-maximum-occurring-character-in-the-input-string/
+          
+Question) Condensed List
+          Given list of integers (linkedlist), remove any nodes that have values that have previously occurred in the list and return a reference to head of list.
