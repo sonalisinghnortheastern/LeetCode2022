@@ -76,3 +76,8 @@ Question) Given a 2-D String array of student-marks find the student with the hi
           
 Question) Power of 3
           https://leetcode.com/problems/power-of-three/description/
+          
+Question) Problem #19 : Find number of distinct palindromic substrings
+          Description
+          Given a string return the number of unique substrings which are distinct
+          
