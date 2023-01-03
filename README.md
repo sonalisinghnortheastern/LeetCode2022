@@ -86,3 +86,16 @@ Question) Longest Uniform Substring
           Given a string identify the location of the longest uniform substring within the input string. e.g. for the input: "abbbccda" the longest uniform substring is "bbb" 
           (which starts at index 1 and is 3 characters long).
           
+Question) Longest Common Substring without Repeating Characters
+          Description
+          Find the longest substring without repeated characters
+          Link : https://leetcode.com/problems/longest-substring-without-repeating-characters/
+          
+Question) Find first non repeating character in String
+          Description
+          Given a string, find the first non-repeating character in it. For example, if the input string is “GeeksforGeeks”, 
+          then the output should be ‘f’ and if the input string is “GeeksQuiz”, then the output should be ‘G’
+          Link : https://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/
+
+          
+
