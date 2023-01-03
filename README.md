@@ -81,3 +81,8 @@ Question) Problem #19 : Find number of distinct palindromic substrings
           Description
           Given a string return the number of unique substrings which are distinct
           
+Question) Longest Uniform Substring
+          Description
+          Given a string identify the location of the longest uniform substring within the input string. e.g. for the input: "abbbccda" the longest uniform substring is "bbb" 
+          (which starts at index 1 and is 3 characters long).
+          
