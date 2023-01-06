@@ -96,3 +96,6 @@ Question) Rotate string left and right i and k times respectively
           Description:Rotate string left and right i and k times respectively
           Link : https://leetcode.com/problems/rotate-array/
 
+Question) Valid Sudoku
+          Description:Determine if a 9x9 Sudoku board is valid. Only the filled cells need to be validated according to the standard Sudoku rules
+          Link : https://leetcode.com/problems/valid-sudoku/
