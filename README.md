@@ -99,3 +99,9 @@ Question) Rotate string left and right i and k times respectively
 Question) Valid Sudoku
           Description:Determine if a 9x9 Sudoku board is valid. Only the filled cells need to be validated according to the standard Sudoku rules
           Link : https://leetcode.com/problems/valid-sudoku/
+          
+Question) Longest Palindromic Substring
+          Description:Given a string s, return the longest palindromic substring in s.
+          Link : https://leetcode.com/problems/longest-palindromic-substring/
+          Solve in  O(n^2) learn this solution
+          Brute force O(n^3)
