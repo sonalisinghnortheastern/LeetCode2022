@@ -105,3 +105,7 @@ Question) Longest Palindromic Substring
           Link : https://leetcode.com/problems/longest-palindromic-substring/
           Solve in  O(n^2) learn this solution
           Brute force O(n^3)
+          
+Question) Trapping Rain Water
+          Description:Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
+          Link : https://leetcode.com/problems/trapping-rain-water/
