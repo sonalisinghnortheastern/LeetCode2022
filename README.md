@@ -130,3 +130,20 @@ Question) Problem #43 : Efficient Harvest
           Function Description Complete the function maxProfit in the editor below. The function must return the maximum profit achievable. 
           maxProfit has the following parameters: k an integer denoting the half of the needed amount of pieces of the field. profit[profit[0],..profit[n-1].
           Link : https://leetcode.com/discuss/interview-question/1321204/efficient-harvest-faang-oa-question-2021
+          
+          Test Cases:
+          I/p
+          6
+          1 -2 -3 4 -5 6 -7 8 9 10 -11 12 -13 14 15 16 -17 18 -19 20
+          O/p: 54
+          
+          I/P
+          3
+          1 2 3 4 5 6 7 8 9 10
+          O/p: 39
+          
+          I/p
+          1
+          -3 6 3 -6
+          O/p:0
+          
