@@ -109,3 +109,12 @@ Question) Longest Palindromic Substring
 Question) Trapping Rain Water
           Description:Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
           Link : https://leetcode.com/problems/trapping-rain-water/
+          
+Question) Problem #40 : Prime Factorization
+          Description
+          Given a number n, write an efficient function to print all prime factors of n. For example, if the input number is 12, then output should be “2 2 3”. 
+          And if the input number is 315, then output should be “3 3 5 7”
+          Link : https://www.geeksforgeeks.org/print-all-prime-factors-of-a-given-number/
+          
+          O(n) time first approach
+          O(sqrt(n)) second approach
