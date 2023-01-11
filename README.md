@@ -147,3 +147,9 @@ Question) Problem #43 : Efficient Harvest
           -3 6 3 -6
           O/p:0
           
+Question) Reaching Points
+          Description
+          A move consists of taking a point (x, y) and transforming it to either (x, x+y) or (x+y, y). Given a starting point (sx, sy) and a target point (tx, ty),
+          return True if and only if a sequence of moves exists to transform the point (sx, sy) to (tx, ty). Otherwise, return False.
+          Link : https://leetcode.com/problems/reaching-points/
+          
