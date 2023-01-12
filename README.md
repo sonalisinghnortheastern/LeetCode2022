@@ -161,3 +161,8 @@ Question)  Friend circle
           Link : https://leetcode.com/problems/friend-circles/
           
           Similar to finding number of paths in undirected graph
+          
+Question) Inversions
+          Description
+          Count Inversions of size three in a given array.
+          Link : https://www.geeksforgeeks.org/count-inversions-of-size-three-in-a-give-array/
