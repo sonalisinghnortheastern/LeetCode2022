@@ -175,3 +175,8 @@ Question) Variation of High Five
           Sort result by IDj in increasing order. A student's top five average is calculated by taking the sum of their top five scores and dividing it by 5 using integer 
           division.
           Link : https://leetcode.com/problems/high-five/
+          
+Question) Find Minimum in Rotated Sorted Array
+          Description
+          Given the sorted rotated array nums of unique elements, return the minimum element of this array.
+          Link : https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
