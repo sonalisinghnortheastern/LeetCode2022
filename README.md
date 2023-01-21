@@ -194,3 +194,11 @@ Question) Problem #81 : Do they belong?
           Description
           Math, Geometry
           Link : https://www.geeksforgeeks.org/check-whether-a-given-point-lies-inside-a-triangle-or-not/
+          
+Question) Problem #80 : Minimum Value to Get Positive Step by Step Sum(Stay Positive)
+          Description
+          Given an array of integers nums, you start with an initial positive value startValue. 
+          In each iteration, you calculate the step by step sum of startValue plus elements in nums (from left to right).
+          Return the minimum positive value of startValue such that the step by step sum is never less than 1.
+          Link : https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
+
