@@ -201,4 +201,8 @@ Question) Problem #80 : Minimum Value to Get Positive Step by Step Sum(Stay Posi
           In each iteration, you calculate the step by step sum of startValue plus elements in nums (from left to right).
           Return the minimum positive value of startValue such that the step by step sum is never less than 1.
           Link : https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
-
+          
+Question) Problem #78 : Check is sentence is pangram and return missing characters
+          Description
+          Check if the given sentence is Pangram, if not then return the missing characters in ascending order
+          Link : https://leetcode.com/problems/check-if-the-sentence-is-pangram/
