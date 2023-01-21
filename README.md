@@ -180,3 +180,13 @@ Question) Find Minimum in Rotated Sorted Array
           Description
           Given the sorted rotated array nums of unique elements, return the minimum element of this array.
           Link : https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+Question) Problem #72 : Move all zeroes to end of array
+          Description
+          Given an array of random numbers, Push all the zero’s of a given array to the end of the array.
+          Link : https://www.geeksforgeeks.org/move-zeroes-end-array/
+          
+Question) Problem #73 : Depth  First Search
+          Description
+          BFS
+          Link : https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
+          
