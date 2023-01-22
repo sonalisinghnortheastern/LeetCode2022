@@ -217,3 +217,8 @@ Question) Problem #75 : Queue using Stacks
           Depending on your language, the stack may not be supported natively. 
           You may simulate a stack using a list or deque (double-ended queue) as long as you use only a stack's standard operations.
           Link : https://leetcode.com/problems/implement-queue-using-stacks/
+          
+Question) Problem #70 : Balanced Binary Tree
+          Description
+          Same as Leetcode problem number 110 Balanced Binary Tree
+          Link : https://leetcode.com/problems/balanced-binary-tree/
