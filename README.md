@@ -243,3 +243,8 @@ Question) Problem #63 : Reverse Linked List
 Question) Problem #62 : Find Median from Data Stream
           Description
           https://leetcode.com/problems/find-median-from-data-stream/
+          
+Question) Problem #58 : Vending Machine Coin Change
+          Description
+          Given a vending machine, you buy a product and you get a change. what are the possible ways to get the denominations to get the change.
+          Link : https://leetcode.com/problems/coin-change/
