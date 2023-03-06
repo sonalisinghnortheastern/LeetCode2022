@@ -248,3 +248,6 @@ Question) Problem #58 : Vending Machine Coin Change
           Description
           Given a vending machine, you buy a product and you get a change. what are the possible ways to get the denominations to get the change.
           Link : https://leetcode.com/problems/coin-change/
+          
+Question) 1758. Minimum Changes To Make Alternating Binary String
+
